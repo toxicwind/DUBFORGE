@@ -135,7 +135,7 @@ Producer Dojo (founded by **ill.Gates** / Dylan Forbes) is a music production ed
 3. **Less is more in the drop** — 1-2 word chops > full vocal phrases
 4. **Layer for width** — Duplicate vocal, detune ±5 cents, pan L/R
 5. **Contrast is everything** — Clean vocal in breakdown, destroyed vocal in drop
-6. **The "20% rule"** — Vocals should occupy ~20% of the frequency real estate
+6. **The "20% rule"** — Vocals should occupy ~20% of the frequency real Pens
 
 ---
 
